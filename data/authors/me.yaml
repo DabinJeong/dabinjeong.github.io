@@ -14,10 +14,9 @@ status:
   icon: "🧬"
 role: Senior Data Scientist
 bio: |
-  I work where machine learning meets biomedical science. I see myself as a
-  problem finder: I look for the gaps where existing computational methods fall
-  short, and build new models to fill them. My background is in bioinformatics
-  and biochemistry.
+  I am an AI for Life Science researcher at the [Lotfollahi Lab](https://www.sanger.ac.uk/group/lotfollahi-group/), Wellcome Sanger Institute, working at the intersection of machine learning and biomedical science.
+
+  I see myself as a problem finder as much as a problem solver. My background in bioinformatics and biochemistry leads me to look for gaps where existing computational approaches fall short. Rather than simply applying established AI frameworks to biology, I focus on identifying under-explored problems in the domain and developing novel solutions to address the problems. I translate the complexity of biological and medical questions into well-defined computational problems, then build the models needed to solve them.
 
 affiliations:
   - name: Lotfollahi Lab, Wellcome Sanger Institute

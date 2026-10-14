@@ -12,7 +12,7 @@ sections:
       username: me
       text: ''
       headings:
-        about: 'About'
+        about: 'About me'
         education: 'Education'
         interests: 'Research Interests'
     design:

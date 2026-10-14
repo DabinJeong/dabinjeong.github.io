@@ -1,0 +1,30 @@
+# Custom font pack: the Notion / oopy "Serif" look (Georgia-based), no web font downloads
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Notion Serif"
+    vendor: "dabinjeong"
+    version: "1.0.0"
+    license: "MIT"
+    style: "serif"
+    description: "Georgia-based serif, like Notion's Serif page style"
+
+  families:
+    heading: "system-serif"
+    body: "system-serif"
+    code: "system-mono"
+    nav: "system-serif"
+
+  weights:
+    heading: [700]
+    body: [400, 700]
+    code: [400]
+
+  leading:
+    heading: 1.25
+    body: 1.65
+    code: 1.5
+
+  tracking:
+    heading: "0"
+    body: "0"
