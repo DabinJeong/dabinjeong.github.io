@@ -121,3 +121,8 @@ html:root {
   color: var(--dj-text);
   margin-bottom: 0.5rem !important;
 }
+
+/* Hide the site name at the top-left of the navbar (keeps the menu centered) */
+#site-header .navbar-brand {
+  visibility: hidden;
+}
