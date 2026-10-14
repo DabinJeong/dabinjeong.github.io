@@ -1,0 +1,118 @@
+/* ------------------------------------------------------------------
+   Clean single-column layout for the homepage
+   (one reading width, left-aligned section titles, tighter spacing)
+   ------------------------------------------------------------------ */
+
+:root {
+  --dj-width: 46rem;
+  --dj-text: #262626;
+  --dj-muted: #737373;
+  --dj-rule: #e5e5e5;
+}
+.dark {
+  --dj-text: #e5e5e5;
+  --dj-muted: #a3a3a3;
+  --dj-rule: #262626;
+}
+
+/* Hero: less empty space above and below */
+.resume-biography {
+  padding-top: 3rem !important;
+  padding-bottom: 1rem !important;
+}
+.resume-biography > .max-w-7xl {
+  max-width: 72rem;
+}
+
+/* Every other section: same width, left aligned, compact spacing */
+.page-body > section.hbb-section:not(#about) {
+  padding: 2.25rem 1.5rem !important;
+}
+.page-body > section.hbb-section:not(#about) > div:not(.home-section-bg) {
+  align-items: stretch !important;
+  max-width: var(--dj-width) !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Section titles: small, left aligned, thin rule underneath */
+.page-body > section.hbb-section:not(#about) .mb-6.text-3xl {
+  width: 100%;
+  margin-bottom: 1.1rem !important;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--dj-rule);
+  font-size: 1.35rem !important;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  text-align: left;
+}
+
+/* Body text: normal size, neutral (not slate-blue) colors */
+.page-body > section.hbb-section:not(#about) .prose {
+  max-width: none !important;
+  width: 100%;
+  font-size: 1.02rem !important;
+  line-height: 1.75 !important;
+  --tw-prose-body: var(--dj-text);
+  --tw-prose-bold: var(--dj-text);
+  --tw-prose-links: var(--dj-text);
+  --tw-prose-bullets: #a3a3a3;
+  --tw-prose-quotes: var(--dj-muted);
+  --tw-prose-quote-borders: var(--dj-rule);
+  --tw-prose-invert-body: var(--dj-text);
+  --tw-prose-invert-bold: var(--dj-text);
+  --tw-prose-invert-links: var(--dj-text);
+  --tw-prose-invert-bullets: #737373;
+  --tw-prose-invert-quotes: var(--dj-muted);
+  --tw-prose-invert-quote-borders: var(--dj-rule);
+}
+.page-body > section.hbb-section:not(#about) .prose :where(p, ul) {
+  margin-top: 0.6em !important;
+  margin-bottom: 0.6em !important;
+}
+.page-body > section.hbb-section:not(#about) .prose li {
+  margin-top: 0.35em !important;
+  margin-bottom: 0.35em !important;
+}
+.page-body > section.hbb-section:not(#about) .prose a {
+  text-decoration-color: #a3a3a3;
+  text-underline-offset: 3px;
+}
+.page-body > section.hbb-section:not(#about) .prose a:hover {
+  text-decoration-color: currentColor;
+}
+
+/* Quote: no doubled quotation marks */
+.page-body .prose blockquote p::before,
+.page-body .prose blockquote p::after {
+  content: none !important;
+}
+.page-body .prose blockquote {
+  margin: 1rem 0 !important;
+}
+
+/* Publications: intro line and list share the same column */
+#publications > div:not(.home-section-bg) > p {
+  width: 100%;
+  margin: 0;
+  color: var(--dj-muted);
+  font-size: 0.95rem;
+}
+#publications > div:not(.home-section-bg) > p a {
+  color: var(--dj-text);
+  text-decoration: underline;
+  text-decoration-color: #a3a3a3;
+  text-underline-offset: 3px;
+}
+#publications .container {
+  margin-top: 1rem !important;
+  max-width: none !important;
+}
+#publications .pub-list-item {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--dj-text);
+  margin-bottom: 0.5rem !important;
+}
