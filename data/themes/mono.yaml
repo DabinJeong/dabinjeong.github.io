@@ -1,0 +1,42 @@
+# Custom grayscale theme pack (no blue tints)
+
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Mono"
+    vendor: "dabinjeong"
+    version: "1.0.0"
+    license: "MIT"
+    description: "Black, white and neutral grays"
+
+  type: "dual"
+
+  light:
+    colors:
+      primary: "neutral"
+      secondary: "stone"
+      neutral: "neutral"
+    surfaces:
+      background: "#ffffff"
+      foreground: "#171717"
+      header:
+        background: "#fafafa"
+        foreground: "#171717"
+      footer:
+        background: "#fafafa"
+        foreground: "#404040"
+
+  dark:
+    colors:
+      primary: "neutral"
+      secondary: "stone"
+      neutral: "neutral"
+    surfaces:
+      background: "#0a0a0a"
+      foreground: "#f5f5f5"
+      header:
+        background: "#111111"
+        foreground: "#f5f5f5"
+      footer:
+        background: "#111111"
+        foreground: "#d4d4d4"
