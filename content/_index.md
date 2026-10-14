@@ -1,52 +1,93 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 summary: ''
 date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
-    id: about
-    content:
-      username: me
-      text: ''
-      headings:
-        about: 'About me'
-        education: 'Education'
-        interests: 'Research Interests'
-    design:
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
-
+  # ── Hero + About me + Experience + News + Education ───────────────────────
   - block: markdown
-    id: research
+    id: profile
     content:
-      title: 'Research'
+      title: ''
       text: |-
+        <div class="dj-hero">
+        <img class="dj-photo" src="/images/profile.png" alt="Dabin Jeong" width="160" height="160">
+        <div class="dj-hero-text">
+        <h1>Dabin Jeong</h1>
+        <p class="dj-role">Senior Data Scientist · Lotfollahi Lab</p>
+        <ul class="dj-contact">
+        <li><span class="dj-ico">✉️</span><a href="mailto:dj16@sanger.ac.uk">dj16@sanger.ac.uk</a></li>
+        <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/739ab583-004d-484e-b944-d0a23121ad74/location.jpg" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><span>Wellcome Sanger Institute, Cambridge, UK</span></li>
+        <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/495c8ba1-627e-4adb-835e-d217b5fdea8e/github.png" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="https://github.com/DabinJeong">GitHub</a></li>
+        <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/b64adb4e-8e3d-4847-8234-dec766f2308e/square-linkedin-logo-isolated-white-background_469489-892.avif" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="http://www.linkedin.com/in/dabin-jeong-421914261/">LinkedIn</a></li>
+        <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/a5a8f6e5-9403-4434-8bcd-7ce2398e7908/Google_Scholar_logo.svg.png" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="https://scholar.google.com/citations?hl=en&user=Ne2p354AAAAJ">Google Scholar</a></li>
+        </ul>
+        </div>
+        </div>
+
+        ## About me {#about}
+
+        I am an AI for Life Science researcher at the [Lotfollahi Lab](https://www.sanger.ac.uk/group/lotfollahi-group/), Wellcome Sanger Institute, working at the intersection of machine learning and biomedical science.
+
+        I see myself as a problem finder as much as a problem solver. My background in bioinformatics and biochemistry leads me to look for gaps where existing computational approaches fall short. Rather than simply applying established AI frameworks to biology, I focus on identifying under-explored problems in the domain and developing novel solutions to address the problems. I translate the complexity of biological and medical questions into well-defined computational problems, then build the models needed to solve them.
+
+        <div class="dj-cols">
+        <div>
+
+        ### 💡 Research Interest
+
+        - Multi-modal learning of biomedical images and spatial transcriptomics
+        - Regulatory DNA sequence generation
+        - Temporal cell dynamics modeling
+
+        </div>
+        <div>
+
+        ### 🚩 Research Vision
+
         I see DNA as both a code and a codebook, deeply intertwined. My long-term goal is to build a program that simulates biological systems starting from DNA sequence.
 
         > *What I cannot create, I do not understand.* — Richard Feynman
 
-        Right now I work on multi-modal learning that connects histopathology images with spatial transcriptomics, generative models for regulatory DNA, and modeling how cells change over time.
-    design:
-      columns: '1'
+        </div>
+        </div>
 
-  - block: markdown
-    id: experience
-    content:
-      title: 'Experience'
-      text: |-
-        - **Senior Data Scientist**, [Wellcome Sanger Institute](https://www.sanger.ac.uk/group/lotfollahi-group/) (2024.10–) — Lotfollahi Lab
-        - **Research Intern**, LG AI Research (2024.01–2024.04)
-        - **Ph.D.**, Bioinformatics, [Seoul National University](https://www.snu.ac.kr) (–2024.08)
-        - **B.S.**, Biochemistry, [Yonsei University](https://www.yonsei.ac.kr) (–2018.08)
-    design:
-      columns: '1'
+        ## 💼 Professional Experience {#experience}
 
+        **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
+
+        - Led **SIGMMA**, a hierarchical contrastive learning framework aligning H&E histopathology with spatial transcriptomics ([ICML 2026 workshop paper](https://openreview.net/pdf?id=npTFOLkCDf); journal version in preparation)
+        - Led **LocoGen**, a generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle (NeurIPS 2026)
+
+        **Research Intern** · LG AI Research, Korea · *Jan – Apr 2024*
+
+        - Contributed to **ExaonePath**, a self-supervised foundation model for H&E histopathology images ([press](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis))
+        - Built a scalable, reproducible multi-omics preprocessing pipeline
+
+        ## 🔥 News {#news}
+
+        <div class="dj-emoji-list">
+
+        - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to NeurIPS 2026.
+        - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
+        - 🎉 **Jun 2026** · SIGMMA was accepted to the ICML FM4LS/SD4H workshop; a journal version is in preparation ([manuscript](https://icml.cc/virtual/2026/72055)).
+        - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
+
+        </div>
+
+        ## 🎓 Education {#education}
+
+        **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, Korea · *graduated Aug 2024*
+
+        - Thesis: *Computational modeling of molecular interactions for biomarker discovery using single/multi-omics data*
+        - 3 first-authored and 10 co-authored papers
+        - Developed **GOAT**, a graph neural network for multi-omics biomarker discovery in eosinophilic asthma ([Bioinformatics, 2023](https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697))
+        - Developed RNA-seq quantification and normalization pipelines for ICGC-ARGO
+
+        **B.S., Biochemistry** · Yonsei University, Korea · *graduated Aug 2018*
+
+  # ── Publications (auto-listed from content/publications) ──────────────────
   - block: collection
     id: publications
     content:
@@ -58,26 +99,43 @@ sections:
     design:
       view: citation
 
+  # ── Skills, Awards, Languages, Personal ───────────────────────────────────
   - block: markdown
-    id: talks
+    id: more
     content:
-      title: 'Talks & Awards'
+      title: ''
       text: |-
-        - **2026** · Selected participant (500 of 6,000+ applicants), Claude Life Sciences Hackathon, Anthropic × Gladstone Institutes — built a generative model to infer missing cell states across time points
-        - **2023** · Invited talk, National Heart & Lung Institute, Imperial College London — *Deep graph attention for multi-omics network biomarkers in eosinophilic asthma* (host: Prof. Kian Fan Chung)
-        - **2016** · National Excellence Scholarship (Natural Sciences and Engineering) — sole recipient in the department
-    design:
-      columns: '1'
+        ## Technical Skills {#skills}
 
-  - block: markdown
-    id: beyond
-    content:
-      title: 'Beyond Research'
-      text: |-
-        - **Tools** · Python, R, PyTorch, PyTorch Geometric, DGL, Nextflow, Snakemake, Docker
-        - **Languages** · Korean (native), English (professional), Spanish (conversational)
-        - **Off the clock** · Knitting, board games and chess, and linguistics — especially how symbols relate to concepts
-        - **Favorite books** · *Gödel, Escher, Bach*; *Surfaces and Essences*; *Language as a Cognitive Process*
-    design:
-      columns: '1'
+        - **Programming** · Python, R, Shell, LaTeX
+        - **ML / Deep Learning** · PyTorch, PyTorch Geometric, DGL, scikit-learn
+        - **Workflow & Reproducibility** · Nextflow, Snakemake, Docker, Git
+
+        ## Awards & Achievements {#awards}
+
+        <div class="dj-emoji-list">
+
+        - 🏆 **Invited talk (2023)** · National Heart & Lung Institute, Imperial College London (host: Prof. Kian Fan Chung) — *Deep graph attention for multi-omics network biomarkers in eosinophilic asthma*
+        - 🏆 **National Excellence Scholarship (2016)** · Natural Sciences and Engineering; sole recipient in the department
+
+        </div>
+
+        ## Languages {#languages}
+
+        - English · full professional proficiency
+        - Korean · native
+        - Spanish · conversational
+
+        ## 🎶 Personal Interest {#personal}
+
+        <div class="dj-emoji-list">
+
+        - 🧶 Knitting
+        - 🎲 Board games
+        - ♟️ Chess
+
+        </div>
+
+        - Linguistics, especially how symbols come to embody concepts (I admire Douglas Hofstadter and Terry Winograd)
+        - Favorite books: *Gödel, Escher, Bach*; *Surfaces and Essences*; *Language as a Cognitive Process*
 ---

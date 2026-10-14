@@ -1,20 +1,23 @@
 # Navigation Links
-#   Links starting with `/#` jump to a section on the homepage (the section's `id`).
+#   Links starting with `/#` jump to a section on the homepage (the heading's id).
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Research
-    url: /#research
+  - name: About me
+    url: /#about
     weight: 10
   - name: Experience
     url: /#experience
     weight: 20
+  - name: News
+    url: /#news
+    weight: 30
+  - name: Education
+    url: /#education
+    weight: 40
   - name: Publications
     url: /#publications
-    weight: 30
-  - name: Talks & Awards
-    url: /#talks
-    weight: 40
-  - name: Beyond
-    url: /#beyond
     weight: 50
+  - name: Awards
+    url: /#awards
+    weight: 60
