@@ -14,7 +14,7 @@ html:root {
   --dj-muted: #737373;
   --dj-rule: #e5e5e5;
 }
-.dark {
+html.dark:root {
   --dj-text: #e5e5e5;
   --dj-muted: #a3a3a3;
   --dj-rule: #262626;
