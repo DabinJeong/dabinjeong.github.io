@@ -117,7 +117,7 @@ sections:
     design:
       view: citation
 
-  # ── Skills, Awards, Languages ──────────────────────────────────────────────
+  # ── Skills, Awards ─────────────────────────────────────────────────────────
   - block: markdown
     id: more
     content:
@@ -137,11 +137,5 @@ sections:
         - 🏆 **National Excellence Scholarship (2016)** · Natural Sciences and Engineering; sole recipient in the department
 
         </div>
-
-        ## Languages {#languages}
-
-        - English · full professional proficiency
-        - Korean · native
-        - Spanish · conversational
 
 ---
