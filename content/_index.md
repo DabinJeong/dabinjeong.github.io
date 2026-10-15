@@ -53,6 +53,23 @@ sections:
         </div>
         </div>
 
+        <div class="dj-below">
+
+        ### 🎶 Personal Interest
+
+        <div class="dj-emoji-list">
+
+        - 🧶 Knitting
+        - 🎲 Board games
+        - ♟️ Chess
+
+        </div>
+
+        - Linguistics, especially how symbols come to embody concepts (I admire Douglas Hofstadter and Terry Winograd)
+        - Favorite books: *Gödel, Escher, Bach*; *Surfaces and Essences*; *Language as a Cognitive Process*
+
+        </div>
+
         ## 💼 Professional Experience {#experience}
 
         **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
@@ -99,7 +116,7 @@ sections:
     design:
       view: citation
 
-  # ── Skills, Awards, Languages, Personal ───────────────────────────────────
+  # ── Skills, Awards, Languages ──────────────────────────────────────────────
   - block: markdown
     id: more
     content:
@@ -126,16 +143,4 @@ sections:
         - Korean · native
         - Spanish · conversational
 
-        ## 🎶 Personal Interest {#personal}
-
-        <div class="dj-emoji-list">
-
-        - 🧶 Knitting
-        - 🎲 Board games
-        - ♟️ Chess
-
-        </div>
-
-        - Linguistics, especially how symbols come to embody concepts (I admire Douglas Hofstadter and Terry Winograd)
-        - Favorite books: *Gödel, Escher, Bach*; *Surfaces and Essences*; *Language as a Cognitive Process*
 ---

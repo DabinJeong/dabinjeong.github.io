@@ -190,6 +190,14 @@ html.dark .page-body .prose .dj-photo {
   margin-top: 0 !important;
 }
 
+/* A sub-section placed full width below the two columns */
+.dj-below {
+  margin-top: 1.75rem;
+}
+.dj-below > :first-child {
+  margin-top: 0 !important;
+}
+
 /* ---------- Lists that use an emoji as the marker ---------- */
 .page-body .prose .dj-emoji-list ul {
   margin-left: 0;
