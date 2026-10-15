@@ -46,9 +46,9 @@ sections:
 
         ### 🚩 Research Vision
 
-        I see DNA as both a code and a codebook, deeply intertwined. My long-term goal is to build a program that simulates biological systems starting from DNA sequence.
+        > *“What I cannot create, I do not understand”* — Richard Feynman
 
-        > *What I cannot create, I do not understand.* — Richard Feynman
+        I was drawn to computational biology by the idea that DNA is the ultimate code: a sequence in which both code and the codebook are deeply entangled. My research ambition is to build a program that can simulate biological systems from DNA sequence.
 
         </div>
         </div>
@@ -60,13 +60,14 @@ sections:
         <div class="dj-emoji-list">
 
         - 🧶 Knitting
-        - 🎲 Board games
-        - ♟️ Chess
+        - 🎲 ♟️ Board game / Chess
 
         </div>
 
-        - Linguistics, especially how symbols come to embody concepts (I admire Douglas Hofstadter and Terry Winograd)
-        - Favorite books: *Gödel, Escher, Bach*; *Surfaces and Essences*; *Language as a Cognitive Process*
+        - Linguistics
+          - Fascinated by the subtle gap between symbols and the concepts they represent as René Magritte did: how symbols come to embody concepts, how concepts reshape symbols, and how this relationship evolves
+          - With deep respect for my heroes, Douglas Hofstadter and Terry Winograd
+          - *Gödel, Escher, Bach*, *Surfaces and Essences* and *Language as a Cognitive Process* are my favorite books. Happy to chat about this!
 
         </div>
 
