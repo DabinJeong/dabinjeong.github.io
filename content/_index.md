@@ -15,7 +15,7 @@ sections:
         <img class="dj-photo" src="/images/profile.png" alt="Dabin Jeong" width="160" height="160">
         <div class="dj-hero-text">
         <h1>Dabin Jeong</h1>
-        <p class="dj-role">Senior Data Scientist · Lotfollahi Lab</p>
+        <p class="dj-role">AI for Life Science Researcher</p>
         <ul class="dj-contact">
         <li><span class="dj-ico">✉️</span><a href="mailto:dj16@sanger.ac.uk">dj16@sanger.ac.uk</a></li>
         <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/739ab583-004d-484e-b944-d0a23121ad74/location.jpg" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><span>Wellcome Sanger Institute, Cambridge, UK</span></li>
