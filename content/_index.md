@@ -105,18 +105,6 @@ sections:
 
         **B.S., Biochemistry** · Yonsei University, Korea · *graduated Aug 2018*
 
-  # ── Publications (auto-listed from content/publications) ──────────────────
-  - block: collection
-    id: publications
-    content:
-      title: 'Publications'
-      text: 'Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ne2p354AAAAJ).'
-      filters:
-        folders:
-          - publications
-    design:
-      view: citation
-
   # ── Skills, Awards ─────────────────────────────────────────────────────────
   - block: markdown
     id: more

@@ -6,8 +6,6 @@
      h3  Sub-sections inside h2    1.15rem (Research Interest, Research Vision)
      body                          1.06rem
 
-   The "Publications" title comes from a collection block (a <div>, not an
-   <h2>), so it is styled with the same rules as h2 below.
    ------------------------------------------------------------------ */
 
 html:root {
@@ -82,9 +80,8 @@ html.dark:root {
   text-decoration-color: currentColor;
 }
 
-/* h2: section titles (same look for the Publications collection title) */
-.page-body .prose h2,
-#publications > div:not(.home-section-bg) > .text-3xl {
+/* h2: section titles */
+.page-body .prose h2 {
   width: 100%;
   margin: 3rem 0 1rem !important;
   padding-bottom: 0.55rem;
@@ -208,30 +205,6 @@ html.dark .page-body .prose .dj-photo {
   /* hanging indent: wrapped lines align under the text, not under the emoji */
   padding-left: 1.75em;
   text-indent: -1.75em;
-}
-
-/* ---------- Publications ---------- */
-#publications > div:not(.home-section-bg) > p {
-  width: 100%;
-  margin: 0;
-  color: var(--dj-muted);
-  font-size: 0.95rem;
-}
-#publications > div:not(.home-section-bg) > p a {
-  color: var(--dj-text);
-  text-decoration: underline;
-  text-decoration-color: #a3a3a3;
-  text-underline-offset: 3px;
-}
-#publications .container {
-  margin-top: 1rem !important;
-  max-width: none !important;
-}
-#publications .pub-list-item {
-  margin-bottom: 0.5rem !important;
-  color: var(--dj-text);
-  font-size: 1rem;
-  line-height: 1.65;
 }
 
 /* ---------- Small screens ---------- */

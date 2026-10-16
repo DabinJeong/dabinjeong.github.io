@@ -15,9 +15,6 @@ main:
   - name: Education
     url: /#education
     weight: 40
-  - name: Publications
-    url: /#publications
-    weight: 50
   - name: Awards
     url: /#awards
     weight: 60
