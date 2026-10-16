@@ -126,4 +126,17 @@ sections:
 
         </div>
 
+  # ── Essays (auto-listed from content/essays) ──────────────────────────────
+  - block: collection
+    id: essays
+    content:
+      title: 'Essays'
+      text: 'Notes on research, AI, and life science.'
+      count: 5
+      order: desc
+      filters:
+        folders:
+          - essays
+    design:
+      view: date-title-summary
 ---
