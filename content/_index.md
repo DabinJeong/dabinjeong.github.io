@@ -56,24 +56,6 @@ sections:
         </div>
         </div>
 
-        <div class="dj-below">
-
-        ### 🎶 Personal Interest
-
-        <div class="dj-emoji-list">
-
-        - 🧶 Knitting
-        - 🎲 ♟️ Board game / Chess
-
-        </div>
-
-        - Linguistics
-          - Fascinated by the subtle gap between symbols and the concepts they represent as René Magritte did: how symbols come to embody concepts, how concepts reshape symbols, and how this relationship evolves
-          - With deep respect for my heroes, Douglas Hofstadter and Terry Winograd
-          - *Gödel, Escher, Bach*, *Surfaces and Essences* and *Language as a Cognitive Process* are my favorite books. Happy to chat about this!
-
-        </div>
-
         ## 💼 Professional Experience {#experience}
 
         **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
