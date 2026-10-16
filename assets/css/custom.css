@@ -21,11 +21,13 @@ html:root {
   --dj-text: #262626;
   --dj-muted: #737373;
   --dj-rule: #e5e5e5;
+  --dj-link: #1d4ed8;
 }
 html.dark:root {
   --dj-text: #e5e5e5;
   --dj-muted: #a3a3a3;
   --dj-rule: #262626;
+  --dj-link: #60a5fa;
 }
 
 /* Hide the site name at the top-left of the navbar (keeps the menu centered) */
@@ -75,11 +77,12 @@ html.dark:root {
   margin-bottom: 0.35em !important;
 }
 .page-body .prose a {
-  text-decoration-color: #a3a3a3;
-  text-underline-offset: 3px;
+  color: var(--dj-link);
+  text-decoration: none;
 }
 .page-body .prose a:hover {
-  text-decoration-color: currentColor;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* h2: section titles */
@@ -185,12 +188,7 @@ html.dark .page-body .prose .dj-photo {
   margin: 0 !important;
   object-fit: contain;
 }
-.page-body .prose .dj-contact a {
-  text-decoration: none;
-}
-.page-body .prose .dj-contact a:hover {
-  text-decoration: underline;
-}
+
 
 /* ---------- Sub-sections side by side ---------- */
 .dj-cols {
