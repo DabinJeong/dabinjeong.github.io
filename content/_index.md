@@ -18,8 +18,8 @@ sections:
         <h1>Dabin Jeong</h1>
         <p class="dj-role">AI for Life Science Researcher</p>
         <ul class="dj-contact">
-        <li><span class="dj-ico">✉️</span><a href="mailto:dj16@sanger.ac.uk">dj16@sanger.ac.uk</a></li>
         <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/739ab583-004d-484e-b944-d0a23121ad74/location.jpg" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><span>Wellcome Sanger Institute, Cambridge, UK</span></li>
+        <li><span class="dj-ico">✉️</span><a href="mailto:dj16@sanger.ac.uk">dj16@sanger.ac.uk</a></li>
         <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/495c8ba1-627e-4adb-835e-d217b5fdea8e/github.png" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="https://github.com/DabinJeong">GitHub</a></li>
         <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/b64adb4e-8e3d-4847-8234-dec766f2308e/square-linkedin-logo-isolated-white-background_469489-892.avif" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="http://www.linkedin.com/in/dabin-jeong-421914261/">LinkedIn</a></li>
         <li><img class="dj-ico-img" src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/a5a8f6e5-9403-4434-8bcd-7ce2398e7908/Google_Scholar_logo.svg.png" alt="" width="20" height="20" onerror="this.style.visibility='hidden'"><a href="https://scholar.google.com/citations?hl=en&user=Ne2p354AAAAJ">Google Scholar</a></li>
