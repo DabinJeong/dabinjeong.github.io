@@ -21,13 +21,13 @@ html:root {
   --dj-text: #262626;
   --dj-muted: #737373;
   --dj-rule: #e5e5e5;
-  --dj-link: #1d4ed8;
+  --dj-link: #4a6fa5;
 }
 html.dark:root {
   --dj-text: #e5e5e5;
   --dj-muted: #a3a3a3;
   --dj-rule: #262626;
-  --dj-link: #60a5fa;
+  --dj-link: #8ba6cf;
 }
 
 /* Hide the site name at the top-left of the navbar (keeps the menu centered) */
