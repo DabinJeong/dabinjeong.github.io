@@ -15,7 +15,9 @@ html:root {
   --hb-font-nav: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
   --hb-font-family-sans: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
 
-  --dj-width: 46rem;
+  --dj-width: 62rem;
+  --dj-side: 15rem;
+  --dj-gap: 3.5rem;
   --dj-text: #262626;
   --dj-muted: #737373;
   --dj-rule: #e5e5e5;
@@ -113,17 +115,30 @@ html.dark:root {
 }
 
 /* ---------- Hero ---------- */
+.dj-layout {
+  display: grid;
+  grid-template-columns: var(--dj-side) minmax(0, 1fr);
+  gap: var(--dj-gap);
+  align-items: start;
+  padding-top: 3.5rem;
+}
 .dj-hero {
-  display: flex;
-  align-items: center;
-  gap: 2.25rem;
-  padding: 3.5rem 0 0.5rem;
+  position: sticky;
+  top: 5rem;
+}
+.dj-main > h2:first-child {
+  margin-top: 0 !important;
+}
+/* Later blocks line up with the right-hand column */
+#more > div:not(.home-section-bg),
+#essays > div:not(.home-section-bg) {
+  padding-left: calc(var(--dj-side) + var(--dj-gap)) !important;
 }
 .page-body .prose .dj-photo {
-  flex: none;
-  width: 160px;
-  height: 160px;
-  margin: 0 !important;
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 0 0 1.25rem !important;
   border-radius: 9999px;
   object-fit: cover;
   background: #f5f5f5;
@@ -133,7 +148,7 @@ html.dark .page-body .prose .dj-photo {
 }
 .page-body .prose .dj-hero h1 {
   margin: 0 0 0.25rem;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.15;
   letter-spacing: 0;
@@ -224,16 +239,29 @@ html.dark .page-body .prose .dj-photo {
 }
 
 /* ---------- Small screens ---------- */
-@media (max-width: 640px) {
-  .dj-hero {
-    flex-direction: column;
-    gap: 1.25rem;
+@media (max-width: 860px) {
+  .dj-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
     padding-top: 2.5rem;
+  }
+  .dj-hero {
+    position: static;
     text-align: center;
   }
-  .page-body .prose .dj-contact li {
-    justify-content: center;
+  .page-body .prose .dj-photo {
+    margin: 0 auto 1rem !important;
   }
+  .page-body .prose .dj-contact {
+    display: inline-grid;
+    text-align: left;
+  }
+  #more > div:not(.home-section-bg),
+  #essays > div:not(.home-section-bg) {
+    padding-left: 0 !important;
+  }
+}
+@media (max-width: 640px) {
   .dj-cols {
     grid-template-columns: 1fr;
     gap: 1.5rem;

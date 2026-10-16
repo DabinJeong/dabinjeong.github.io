@@ -11,6 +11,7 @@ sections:
     content:
       title: ''
       text: |-
+        <div class="dj-layout">
         <div class="dj-hero">
         <img class="dj-photo" src="/images/profile.png" alt="Dabin Jeong" width="160" height="160">
         <div class="dj-hero-text">
@@ -25,6 +26,8 @@ sections:
         </ul>
         </div>
         </div>
+
+        <div class="dj-main">
 
         ## About me {#about}
 
@@ -104,6 +107,9 @@ sections:
         - Developed RNA-seq quantification and normalization pipelines for ICGC-ARGO
 
         **B.S., Biochemistry** · Yonsei University, Korea · *graduated Aug 2018*
+
+        </div>
+        </div>
 
   # ── Skills, Awards ─────────────────────────────────────────────────────────
   - block: markdown
