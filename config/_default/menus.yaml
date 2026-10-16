@@ -18,6 +18,9 @@ main:
   - name: Awards
     url: /#awards
     weight: 60
+  - name: Photo
+    url: /#photo
+    weight: 65
   - name: Essays
     url: /essays/
     weight: 70

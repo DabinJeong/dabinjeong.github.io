@@ -132,17 +132,19 @@ sections:
 
         </div>
 
-  # ── Essays (auto-listed from content/essays) ──────────────────────────────
-  - block: collection
-    id: essays
+  # ── Photo ──────────────────────────────────────────────────────────────────
+  - block: markdown
+    id: photo
     content:
-      title: 'Essays'
-      text: 'Notes on research, AI, and life science.'
-      count: 5
-      order: desc
-      filters:
-        folders:
-          - essays
-    design:
-      view: date-title-summary
+      title: ''
+      text: |-
+        ## 📷 Photo {#photo}
+
+        <div class="dj-photo-grid">
+        <!-- Add photos here, e.g.:
+        <figure><img src="/photos/example.jpg" alt="caption"><figcaption>caption</figcaption></figure>
+        -->
+        </div>
+
+        <p class="dj-soon">Photos coming soon.</p>
 ---
