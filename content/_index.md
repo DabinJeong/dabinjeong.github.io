@@ -79,6 +79,53 @@ sections:
         - Contributed to **ExaonePath**, a self-supervised foundation model for H&E histopathology images ([press](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis))
         - Built a scalable, reproducible multi-omics preprocessing pipeline
 
+        ## 🧬 Projects {#projects}
+
+        <div class="dj-project-grid">
+
+        <div class="dj-project-card">
+          <h4>🔬 Spatial transcriptomics × histopathology</h4>
+          <ul>
+            <li><strong>SIGMMA</strong> · <em>Lead · 2025 – present</em><br>
+              Hierarchical contrastive learning aligning H&amp;E histopathology with spatial transcriptomics.<br>
+              <a href="https://icml.cc/virtual/2026/72055">ICML 2026 workshop</a> · journal version in preparation</li>
+            <li><strong>ExaonePath</strong> · <em>Contributor · 2024, LG AI Research</em><br>
+              Self-supervised foundation model for H&amp;E histopathology images.<br>
+              <a href="https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis">press</a></li>
+          </ul>
+        </div>
+
+        <div class="dj-project-card">
+          <h4>🧬 Regulatory DNA generation</h4>
+          <ul>
+            <li><strong>LocoGen</strong> · <em>Lead · 2025 – present</em><br>
+              Generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle.<br>
+              NeurIPS 2026</li>
+          </ul>
+        </div>
+
+        <div class="dj-project-card">
+          <h4>⏱️ Temporal cell dynamics</h4>
+          <ul>
+            <li><strong>Cell-state inference across time</strong> · <em>2026, Anthropic × Gladstone Hackathon</em><br>
+              A generative model that infers missing cell states across time points.<br>
+              <a href="https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/">LinkedIn post</a></li>
+          </ul>
+        </div>
+
+        <div class="dj-project-card">
+          <h4>📊 Earlier work</h4>
+          <ul>
+            <li><strong>GOAT</strong> · <em>Lead · PhD</em><br>
+              Graph neural network for multi-omics biomarker discovery in eosinophilic asthma.<br>
+              <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics, 2023</a></li>
+            <li><strong>ICGC-ARGO RNA-seq pipelines</strong> · <em>Contributor · PhD</em><br>
+              RNA-seq quantification and normalization pipelines for the ICGC-ARGO consortium.</li>
+          </ul>
+        </div>
+
+        </div>
+
         ## 🎓 Education {#education}
 
         **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, Korea · *Sep 2018 – Aug 2024*
