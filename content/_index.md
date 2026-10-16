@@ -81,14 +81,14 @@ sections:
 
         ## 🎓 Education {#education}
 
-        **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, Korea · *graduated Aug 2024*
+        **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, Korea · *Sep 2018 – Aug 2024*
 
         - Thesis: *Computational modeling of molecular interactions for biomarker discovery using single/multi-omics data*
         - 3 first-authored and 10 co-authored papers
         - Developed **GOAT**, a graph neural network for multi-omics biomarker discovery in eosinophilic asthma ([Bioinformatics, 2023](https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697))
         - Developed RNA-seq quantification and normalization pipelines for ICGC-ARGO
 
-        **B.S., Biochemistry** · Yonsei University, Korea · *graduated Aug 2018*
+        **B.S., Biochemistry** · Yonsei University, Korea · *Mar 2013 – Aug 2018*
 
         </div>
         </div>
