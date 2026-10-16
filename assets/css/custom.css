@@ -8,12 +8,15 @@
 
    ------------------------------------------------------------------ */
 
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap");
+
 html:root {
-  /* Notion/oopy "Serif" font stack (Lyon Text where installed, otherwise Georgia) */
-  --hb-font-heading: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
-  --hb-font-body: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
-  --hb-font-nav: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
-  --hb-font-family-sans: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
+  /* Roboto for everything */
+  --hb-font-heading: "Roboto", system-ui, -apple-system, Segoe UI, sans-serif;
+  --hb-font-body: "Roboto", system-ui, -apple-system, Segoe UI, sans-serif;
+  --hb-font-nav: "Roboto", system-ui, -apple-system, Segoe UI, sans-serif;
+  --hb-font-code: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --hb-font-family-sans: "Roboto", system-ui, -apple-system, Segoe UI, sans-serif;
 
   --dj-width: 72rem;
   --dj-side: 21rem;
@@ -187,6 +190,10 @@ html.dark .page-body .prose .dj-photo {
 .page-body .prose .dj-ico-img {
   margin: 0 !important;
   object-fit: contain;
+}
+/* Lighten the dark-colored Notion icons so they stay visible in dark mode */
+html.dark .page-body .prose .dj-ico-img {
+  filter: invert(1) hue-rotate(180deg) brightness(1.05);
 }
 
 
