@@ -56,6 +56,17 @@ sections:
         </div>
         </div>
 
+        ## 🔥 News {#news}
+
+        <div class="dj-emoji-list">
+
+        - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to NeurIPS 2026.
+        - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
+        - 🎉 **Jun 2026** · SIGMMA was accepted to the ICML FM4LS/SD4H workshop; a journal version is in preparation ([manuscript](https://icml.cc/virtual/2026/72055)).
+        - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
+
+        </div>
+
         ## 💼 Professional Experience {#experience}
 
         **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
@@ -67,17 +78,6 @@ sections:
 
         - Contributed to **ExaonePath**, a self-supervised foundation model for H&E histopathology images ([press](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis))
         - Built a scalable, reproducible multi-omics preprocessing pipeline
-
-        ## 🔥 News {#news}
-
-        <div class="dj-emoji-list">
-
-        - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to NeurIPS 2026.
-        - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
-        - 🎉 **Jun 2026** · SIGMMA was accepted to the ICML FM4LS/SD4H workshop; a journal version is in preparation ([manuscript](https://icml.cc/virtual/2026/72055)).
-        - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
-
-        </div>
 
         ## 🎓 Education {#education}
 
