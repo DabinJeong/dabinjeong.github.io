@@ -15,9 +15,9 @@ html:root {
   --hb-font-nav: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
   --hb-font-family-sans: Lyon-Text, Georgia, ui-serif, "Times New Roman", serif;
 
-  --dj-width: 62rem;
-  --dj-side: 15rem;
-  --dj-gap: 3.5rem;
+  --dj-width: 72rem;
+  --dj-side: 17rem;
+  --dj-gap: 4rem;
   --dj-text: #262626;
   --dj-muted: #737373;
   --dj-rule: #e5e5e5;
@@ -51,7 +51,7 @@ html.dark:root {
 .page-body .prose {
   max-width: none !important;
   width: 100%;
-  font-size: 1.06rem !important;
+  font-size: 1.1rem !important;
   line-height: 1.7 !important;
   --tw-prose-body: var(--dj-text);
   --tw-prose-bold: var(--dj-text);
