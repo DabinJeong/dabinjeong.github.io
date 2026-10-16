@@ -114,13 +114,17 @@ sections:
         </div>
 
         <div class="dj-project-card">
-          <h4>📊 Earlier work</h4>
+          <h4>🧪 Multi-omics biomarker discovery</h4>
           <ul>
             <li><strong>GOAT</strong> · <em>Lead · PhD</em><br>
               Graph neural network for multi-omics biomarker discovery in eosinophilic asthma.<br>
               <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics, 2023</a></li>
-            <li><strong>ICGC-ARGO RNA-seq pipelines</strong> · <em>Contributor · PhD</em><br>
-              RNA-seq quantification and normalization pipelines for the ICGC-ARGO consortium.</li>
+            <li><strong>VWA5A as a biomarker in breast cancer</strong> · <em>Co-author · PhD</em><br>
+              Machine-learning-based protein prioritization identifying VWA5A as a prognostic marker for breast-cancer metastasis.<br>
+              <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports, 2024</a></li>
+            <li><strong>Patent (Korea, 한국 특허)</strong> · <em>Co-inventor</em><br>
+              Multi-omics biomarker discovery method, registered through the Korean Intellectual Property Office.<br>
+              <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></li>
           </ul>
         </div>
 
