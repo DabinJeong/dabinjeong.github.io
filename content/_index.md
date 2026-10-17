@@ -122,7 +122,7 @@ sections:
             <li><strong>VWA5A as a biomarker in breast cancer</strong> · <em>Co-author · PhD</em><br>
               Machine-learning-based protein prioritization identifying VWA5A as a prognostic marker for breast-cancer metastasis.<br>
               <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports, 2024</a></li>
-            <li><strong>Patent (Korea, 한국 특허)</strong> · <em>Co-inventor</em><br>
+            <li><strong>Patent (Korea)</strong> · <em>Co-inventor</em><br>
               Multi-omics biomarker discovery method, registered through the Korean Intellectual Property Office.<br>
               <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></li>
           </ul>
