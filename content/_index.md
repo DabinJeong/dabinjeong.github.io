@@ -119,7 +119,7 @@ sections:
             <li><strong>GOAT</strong> · <em>Lead · PhD</em><br>
               Graph neural network for multi-omics biomarker discovery in eosinophilic asthma.<br>
               <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics, 2023</a></li>
-            <li><strong>VWA5A as a biomarker in breast cancer</strong> · <em>Co-author · PhD</em><br>
+            <li><strong>VWA5A as a biomarker in breast cancer</strong> · <em>Co-lead · PhD</em><br>
               Machine-learning-based protein prioritization identifying VWA5A as a prognostic marker for breast-cancer metastasis.<br>
               <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports, 2024</a></li>
             <li><strong>Patent (Korea)</strong> · <em>Co-inventor</em><br>
