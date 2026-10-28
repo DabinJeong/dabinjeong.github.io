@@ -174,10 +174,9 @@ sections:
         ## 📷 Photo {#photo}
 
         <div class="dj-photo-grid">
-        <!-- Add photos here, e.g.:
-        <figure><img src="/photos/example.jpg" alt="caption"><figcaption>caption</figcaption></figure>
-        -->
+          <figure class="dj-photo-item">
+            <img src="/images/photos/platypus.jpg" alt="A stuffed platypus perched on top of a monitor in the lab">
+            <figcaption>My debugging &ldquo;platypus&rdquo; in the lab</figcaption>
+          </figure>
         </div>
-
-        <p class="dj-soon">Photos coming soon.</p>
 ---
