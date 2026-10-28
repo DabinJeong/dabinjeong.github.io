@@ -315,6 +315,26 @@ html.dark .dj-project-card {
   border-color: #303030;
 }
 
+/* ---------- Figures inside essays ---------- */
+.page-body .prose .dj-essay-figure {
+  margin: 1.75rem auto;
+  max-width: 32rem;
+  text-align: center;
+}
+.page-body .prose .dj-essay-figure img {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0.5rem;
+  display: block;
+}
+.page-body .prose .dj-essay-figure figcaption {
+  margin-top: 0.6rem;
+  color: var(--dj-muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
 /* ---------- Per-essay language toggle (shortcode: langswitch) ---------- */
 .dj-lang-switch {
   display: inline-flex;

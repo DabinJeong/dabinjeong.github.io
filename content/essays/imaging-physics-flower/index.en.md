@@ -20,6 +20,11 @@ The obvious fact that everything we see with our eyes, and everything a camera r
 >
 > Kim Chun-su, "Flower"
 
+<figure class="dj-essay-figure">
+  <img src="/essays/imaging-physics-flower/crochet-flowers.jpg" alt="Handmade crochet flowers at a market stall">
+  <figcaption>A bit of a tangent, but &mdash; turns out you can make flowers out of yarn, too!</figcaption>
+</figure>
+
 ## How the world becomes an image
 
 When a real object reveals itself to us as an image, when, in the poem's words, "he comes to me," the form is not transmitted as it is. It only arrives after the physical process of interaction between light and matter. Sometimes as light reflected off a surface, sometimes as a signal that has passed through a body, sometimes as a slice through space.

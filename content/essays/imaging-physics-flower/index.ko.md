@@ -20,6 +20,11 @@ show_breadcrumb: false
 >
 > — 김춘수, 「꽃」
 
+<figure class="dj-essay-figure">
+  <img src="/essays/imaging-physics-flower/crochet-flowers.jpg" alt="시장 매대에 진열된 뜨개 꽃들">
+  <figcaption>TMI지만… 뜨개로도 꽃을 만들 수 있더라고요!</figcaption>
+</figure>
+
 ## How the World Becomes an Image
 
 실재하는 대상이 하나의 이미지로 우리에게 드러날 때, 즉 '그가 나에게로 올 때', 그 모습은 있는 그대로 전해지지 않습니다. 빛과 물질 사이의 상호작용이라는 물리적 과정을 거쳐 비로소 우리에게 도달하죠. 어떤 때는 표면에서 반사된 빛으로, 어떤 때는 내부를 통과한 신호로, 또 어떤 때는 공간의 한 단면으로 우리 앞에 나타납니다.
