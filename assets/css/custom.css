@@ -217,15 +217,26 @@ html.dark .page-body .prose .dj-ico-img {
 }
 
 /* ---------- Lists that use an emoji as the marker ---------- */
-.page-body .prose .dj-emoji-list ul {
+.page-body .prose .dj-emoji-list > ul {
   margin-left: 0;
   padding-left: 0;
   list-style: none;
 }
-.page-body .prose .dj-emoji-list li {
+.page-body .prose .dj-emoji-list > ul > li {
   /* hanging indent: wrapped lines align under the text, not under the emoji */
   padding-left: 1.75em;
   text-indent: -1.75em;
+}
+/* Nested lists keep their regular bullet markers */
+.page-body .prose .dj-emoji-list ul ul {
+  margin-top: 0.4em;
+  margin-left: 2.25em;
+  padding-left: 0;
+  list-style: disc;
+}
+.page-body .prose .dj-emoji-list ul ul li {
+  padding-left: 0;
+  text-indent: 0;
 }
 
 /* ---------- Essays list on the homepage ---------- */

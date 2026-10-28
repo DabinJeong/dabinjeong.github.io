@@ -21,7 +21,7 @@ The obvious fact that everything we see with our eyes, and everything a camera r
 > Kim Chun-su, "Flower"
 
 <figure class="dj-essay-figure">
-  <img src="/essays/imaging-physics-flower/crochet-flowers.jpg" alt="Handmade crochet flowers at a market stall">
+  <img src="/images/crochet-flowers.jpg" alt="Handmade crochet flowers at a market stall">
   <figcaption>A bit of a tangent, but &mdash; turns out you can make flowers out of yarn, too!</figcaption>
 </figure>
 
