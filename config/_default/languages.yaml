@@ -2,21 +2,45 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
+# Default language (English)
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  label: "English"
+  languageCode: "en"
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Korean
+ko:
+  locale: ko-kr
+  label: "한국어"
+  languageCode: "ko"
+  weight: 2
+  title: "Dabin Jeong"
+  params:
+    description: "Dabin Jeong — Wellcome Sanger Institute 소속의 AI for Life Science 연구자입니다."
+  menu:
+    main:
+      - name: 소개
+        url: /ko/#about
+        weight: 10
+      - name: 뉴스
+        url: /ko/#news
+        weight: 20
+      - name: 경력
+        url: /ko/#experience
+        weight: 30
+      - name: 프로젝트
+        url: /ko/#projects
+        weight: 35
+      - name: 학력
+        url: /ko/#education
+        weight: 40
+      - name: 수상
+        url: /ko/#awards
+        weight: 60
+      - name: 사진
+        url: /ko/#photo
+        weight: 65
+      - name: 에세이
+        url: /ko/essays/
+        weight: 70
