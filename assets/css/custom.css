@@ -315,6 +315,38 @@ html.dark .dj-project-card {
   border-color: #303030;
 }
 
+/* ---------- Per-essay language toggle (shortcode: langswitch) ---------- */
+.dj-lang-switch {
+  display: inline-flex;
+  align-items: stretch;
+  margin: 0 0 1.75rem 0;
+  padding: 0;
+  border: 1px solid var(--dj-rule);
+  border-radius: 999px;
+  overflow: hidden;
+  font-size: 0.9rem;
+  line-height: 1;
+}
+.page-body .prose .dj-lang-switch a {
+  padding: 0.4rem 0.95rem;
+  color: var(--dj-muted);
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+.page-body .prose .dj-lang-switch a:hover:not(.dj-lang-active) {
+  color: var(--dj-text);
+  background: var(--dj-rule);
+}
+.page-body .prose .dj-lang-switch a.dj-lang-active {
+  background: var(--dj-text);
+  color: var(--hb-color-background, #fff);
+  cursor: default;
+}
+html.dark .page-body .prose .dj-lang-switch a.dj-lang-active {
+  color: #0a0a0a;
+}
+
 /* ---------- Photo grid ---------- */
 .dj-photo-grid {
   display: grid;

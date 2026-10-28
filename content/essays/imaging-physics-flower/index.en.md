@@ -10,6 +10,8 @@ math: true
 show_breadcrumb: false
 ---
 
+{{< langswitch >}}
+
 The obvious fact that everything we see with our eyes, and everything a camera records, arises from the interaction between light and matter never ceases to fascinate me. The object exists on its own, yet what we meet is always the object as revealed through light as a medium. Light meets matter, is absorbed, reflected, occluded, and only then takes shape for us. Thinking it through, I almost wonder whether the object only becomes a meaningful presence at the very moment of observation.
 
 > **When I called out his name,

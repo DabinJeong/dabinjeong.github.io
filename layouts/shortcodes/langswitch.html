@@ -1,0 +1,10 @@
+{{- /* Per-page language toggle. Renders only when at least one translation exists. */ -}}
+{{- if gt (len .Page.Translations) 0 -}}
+{{- $labels := dict "en" "English" "ko" "한국어" -}}
+<div class="dj-lang-switch">
+  <a class="dj-lang-active" href="{{ .Page.RelPermalink }}" aria-current="page">{{ index $labels .Page.Language.Lang | default (upper .Page.Language.Lang) }}</a>
+  {{- range .Page.Translations }}
+  <a href="{{ .RelPermalink }}">{{ index $labels .Language.Lang | default (upper .Language.Lang) }}</a>
+  {{- end }}
+</div>
+{{- end -}}
