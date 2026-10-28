@@ -22,7 +22,7 @@ show_breadcrumb: false
 
 <figure class="dj-essay-figure">
   <img src="/images/crochet-flowers.jpg" alt="시장 매대에 진열된 뜨개 꽃들">
-  <figcaption>TMI지만… 뜨개로도 꽃을 만들 수 있더라고요!</figcaption>
+  <figcaption>TMI지만… 뜨개로도 꽃을 만들 수 있더라구요!</figcaption>
 </figure>
 
 ## How the World Becomes an Image
