@@ -15,6 +15,7 @@ title: "Essay title"
 date: 2026-01-01
 summary: "One or two sentences shown in the essay list."
 tags: []
+commentable: true
 draft: true
 ---
 

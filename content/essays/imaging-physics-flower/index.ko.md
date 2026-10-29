@@ -8,6 +8,7 @@ tags:
   - essay
 math: true
 show_breadcrumb: false
+commentable: true
 ---
 
 {{< langswitch >}}
