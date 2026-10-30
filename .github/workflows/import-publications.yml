@@ -95,7 +95,6 @@ jobs:
             - 🏷️ Processed bibliographic data
 
             ---
-            `publications.bib`导入到`content/publications/`。
 
             📖 [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
