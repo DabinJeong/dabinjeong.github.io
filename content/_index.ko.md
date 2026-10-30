@@ -98,7 +98,7 @@ sections:
         <div class="dj-project-card">
           <h4>🧬 Regulatory DNA generation</h4>
           <ul>
-            <li><strong>LocoGen</strong> · <em>Lead · 2025 – present</em><br>
+            <li><strong>LocoGen</strong> · <em>Lead · 2026.1 – 2026.9</em><br>
               Generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle.<br>
               NeurIPS 2026</li>
           </ul>
