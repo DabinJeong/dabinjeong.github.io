@@ -19,7 +19,7 @@ commentable: true
 
 제 생각에 학계에서도 이미 AI가 만든 결과물과 사람이 만든 결과물을 구분하기는 어렵습니다. 굳이 짚자면, AI가 만든 글은 '굉장히 말이 많고, 자신의 논증을 과신하며, 낯선 용어들을 쓰는 과학자'가 쓴 글과 구분하기 어렵습니다. 영어가 모국어가 아닌 연구자로서 제가 쓰는 표현들이 낯설게 느껴지고 경계의 대상이 될 수 있다는 점을 알고 있지만, 동시에 왜 사람들이 그런 글을 경계하는지 이해할 것 같은 복잡한 마음입니다. 이럴 때면 제가 좋아하는 시의 한 구절이 떠오릅니다.
 
-> *If you can trust yourself when all men doubt you,*
+> *If you can trust yourself when all men doubt you,*<br>
 > *But make allowance for their doubting too*
 >
 > Rudyard Kipling, "If"

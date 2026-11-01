@@ -19,7 +19,7 @@ It is a line I hear more and more often these days. The papers are written by AI
 
 I think it has already become hard, even inside academia, to tell AI-generated work apart from human work. If I had to describe it, AI writing reads a lot like a text written by "a scientist who talks too much, is overconfident in their own arguments, and uses unfamiliar vocabulary." As a non-native English speaker, I know my own phrasing can read as foreign and attract suspicion; at the same time, I think I understand why people have grown wary of such writing. Moments like this bring to mind a line from a poem I love.
 
-> *If you can trust yourself when all men doubt you,*
+> *If you can trust yourself when all men doubt you,*<br>
 > *But make allowance for their doubting too*
 >
 > Rudyard Kipling, "If"
