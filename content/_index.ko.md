@@ -86,7 +86,7 @@ sections:
         <div class="dj-project-card">
           <h4>🔬 Spatial transcriptomics × histopathology</h4>
           <ul>
-            <li><strong>SIGMMA</strong> · <em>Lead · 2025 – present</em><br>
+            <li><strong>SIGMMA</strong> · <em>Lead · 2025.6 – present</em><br>
               Hierarchical contrastive learning aligning H&amp;E histopathology with spatial transcriptomics.<br>
               <a href="https://icml.cc/virtual/2026/72055">ICML 2026 workshop</a> · journal version in preparation</li>
             <li><strong>ExaonePath</strong> · <em>Contributor · 2024, LG AI Research</em><br>
