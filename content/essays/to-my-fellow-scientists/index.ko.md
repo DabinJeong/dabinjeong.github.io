@@ -1,7 +1,7 @@
 ---
 title: "To My Fellow Scientists, Human or AI"
 date: 2026-11-01
-summary: "AI가 쓴 글과 사람이 쓴 글이 쉽게 구분되지 않는 시대에, 과학자들이 서로의 덜 다듬어진 아이디어를 알아봐주는 마음에 대하여."
+summary: "AI가 쓴 글과 사람이 쓴 글이 쉽게 구분되지 않는 시대에, 과학자들에게 필요한 '무장한 선의'에 대하여."
 tags:
   - AI
   - research-culture
