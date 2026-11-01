@@ -178,5 +178,9 @@ sections:
             <img src="/images/photos/platypus.jpg" alt="A stuffed platypus perched on top of a monitor in the lab">
             <figcaption>My debugging &ldquo;platypus&rdquo; in the lab</figcaption>
           </figure>
+          <figure class="dj-photo-item">
+            <img src="/images/photos/chess-geneva.jpg" alt="A mid-game chess position on a wooden board, with pastries beside it">
+            <figcaption>Conference by day, endless chess by night. Geneva, July 2026! ♟️</figcaption>
+          </figure>
         </div>
 ---
