@@ -130,7 +130,7 @@ sections:
               <div class="dj-project-card">
                 <h4>Condition-specific GRN</h4>
                 <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
-                <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+                <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.652623/full">Frontiers in Genetics 2021</a></p>
               </div>
               <div class="dj-project-card">
                 <h4>Patent (Korea)</h4>
