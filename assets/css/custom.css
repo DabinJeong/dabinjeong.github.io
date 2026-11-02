@@ -315,10 +315,11 @@ html.dark .page-body .prose .dj-ico-img {
   letter-spacing: 0;
 }
 
-/* Side-by-side sub-themes within a role */
+/* Side-by-side sub-themes within a role.
+   auto-fit lets a lone sub-theme take the full row width. */
 .dj-subtheme-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
   gap: 1.25rem;
   margin: 0.75rem 0 1.75rem;
   align-items: stretch;

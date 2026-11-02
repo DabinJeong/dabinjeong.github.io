@@ -116,28 +116,22 @@ sections:
         <div class="dj-subtheme-row">
           <div class="dj-subtheme-col">
             <div class="dj-subtheme">🧪 Multi-omics biomarker discovery</div>
-            <div class="dj-project-card">
-              <h4>GOAT</h4>
-              <p>Graph attention network for gene-level biomarker discovery in eosinophilic asthma subtypes.</p>
-              <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics 2023</a></p>
-            </div>
-            <div class="dj-project-card">
-              <h4>VWA5A as a biomarker in breast cancer</h4>
-              <p>Machine-learning-based protein prioritization identifying a metastasis biomarker.</p>
-              <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
-            </div>
-            <div class="dj-project-card">
-              <h4>Patent (Korea)</h4>
-              <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
-              <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
-            </div>
-          </div>
-          <div class="dj-subtheme-col">
-            <div class="dj-subtheme">📊 Gene regulatory network modeling</div>
-            <div class="dj-project-card">
-              <h4>Condition-specific GRN</h4>
-              <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
-              <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+            <div class="dj-project-grid">
+              <div class="dj-project-card">
+                <h4>GOAT</h4>
+                <p>Graph attention network for gene-level biomarker discovery in eosinophilic asthma subtypes.</p>
+                <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics 2023</a></p>
+              </div>
+              <div class="dj-project-card">
+                <h4>VWA5A as a biomarker in breast cancer</h4>
+                <p>Machine-learning-based protein prioritization identifying a metastasis biomarker.</p>
+                <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
+              </div>
+              <div class="dj-project-card">
+                <h4>Patent (Korea)</h4>
+                <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
+                <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
+              </div>
             </div>
           </div>
         </div>
