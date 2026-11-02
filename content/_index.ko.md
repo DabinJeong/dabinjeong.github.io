@@ -128,6 +128,11 @@ sections:
                 <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
               </div>
               <div class="dj-project-card">
+                <h4>Condition-specific GRN</h4>
+                <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
+                <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+              </div>
+              <div class="dj-project-card">
                 <h4>Patent (Korea)</h4>
                 <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
                 <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
