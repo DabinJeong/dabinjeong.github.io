@@ -71,77 +71,74 @@ sections:
 
         ### Senior Data Scientist · Wellcome Sanger Institute (Lotfollahi Lab), UK <span class="dj-role-dates">Oct 2024 – present</span>
 
-        <div class="dj-subtheme">🔬 Digital pathology × spatial transcriptomics</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>SIGMMA</h4>
-            <p>Cross-modal method aligning H&amp;E histopathology with spatial transcriptomics.</p>
-            <p class="dj-meta"><em>Lead · 2025.6 – present</em> · <a href="https://openreview.net/pdf?id=npTFOLkCDf">ICML 2026 workshop</a></p>
+        <div class="dj-subtheme-row">
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">🔬 Digital pathology × spatial transcriptomics</div>
+            <div class="dj-project-card">
+              <h4>SIGMMA</h4>
+              <p>Cross-modal method aligning H&amp;E histopathology with spatial transcriptomics.</p>
+              <p class="dj-meta"><em>Lead · 2025.6 – present</em> · <a href="https://openreview.net/pdf?id=npTFOLkCDf">ICML 2026 workshop</a></p>
+            </div>
           </div>
-        </div>
-
-        <div class="dj-subtheme">🧬 Generative regulatory DNA design</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>LocoGen</h4>
-            <p>Property-guided generative framework for de novo regulatory DNA design in a lab-in-the-loop cycle.</p>
-            <p class="dj-meta"><em>Lead · 2026.1 – 2026.9</em> · <a href="https://arxiv.org/abs/2610.41736">NeurIPS 2026</a></p>
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">🧬 Generative regulatory DNA design</div>
+            <div class="dj-project-card">
+              <h4>LocoGen</h4>
+              <p>Property-guided generative framework for de novo regulatory DNA design in a lab-in-the-loop cycle.</p>
+              <p class="dj-meta"><em>Lead · 2026.1 – 2026.9</em> · <a href="https://arxiv.org/abs/2610.41736">NeurIPS 2026</a></p>
+            </div>
           </div>
         </div>
 
         ### Research Intern · LG AI Research (Multimodal Lab), Korea <span class="dj-role-dates">Jan – Apr 2024</span>
 
-        <div class="dj-subtheme">🏥 Foundation models for medical imaging</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>EXAONEPath</h4>
-            <p>Self-supervised foundation model for H&amp;E histopathology images.</p>
-            <p class="dj-meta"><em>Contributor · 2024</em> · <a href="https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis">press</a></p>
+        <div class="dj-subtheme-row">
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">🏥 Foundation models for medical imaging</div>
+            <div class="dj-project-card">
+              <h4>EXAONEPath</h4>
+              <p>Self-supervised foundation model for H&amp;E histopathology images.</p>
+              <p class="dj-meta"><em>Contributor · 2024</em> · <a href="https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis">press</a></p>
+            </div>
           </div>
-        </div>
-
-        <div class="dj-subtheme">⚙️ Multi-omics data infrastructure</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>TCGA multi-omics pipeline</h4>
-            <p>Scalable, reproducible preprocessing pipeline for TCGA multi-omics data.</p>
-            <p class="dj-meta"><em>Contributor · 2024</em></p>
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">⚙️ Multi-omics data infrastructure</div>
+            <div class="dj-project-card">
+              <h4>TCGA multi-omics pipeline</h4>
+              <p>Scalable, reproducible preprocessing pipeline for TCGA multi-omics data.</p>
+              <p class="dj-meta"><em>Contributor · 2024</em></p>
+            </div>
           </div>
         </div>
 
         ### Graduate Researcher · Seoul National University (Biohealth Informatics Lab), Korea <span class="dj-role-dates">Sep 2021 – Aug 2024</span>
 
-        <div class="dj-subtheme">🧪 Multi-omics biomarker discovery</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>GOAT</h4>
-            <p>Graph attention network for gene-level biomarker discovery in eosinophilic asthma subtypes.</p>
-            <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics 2023</a></p>
+        <div class="dj-subtheme-row">
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">🧪 Multi-omics biomarker discovery</div>
+            <div class="dj-project-card">
+              <h4>GOAT</h4>
+              <p>Graph attention network for gene-level biomarker discovery in eosinophilic asthma subtypes.</p>
+              <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics 2023</a></p>
+            </div>
+            <div class="dj-project-card">
+              <h4>VWA5A as a biomarker in breast cancer</h4>
+              <p>Machine-learning-based protein prioritization identifying a metastasis biomarker.</p>
+              <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
+            </div>
+            <div class="dj-project-card">
+              <h4>Patent (Korea)</h4>
+              <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
+              <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
+            </div>
           </div>
-          <div class="dj-project-card">
-            <h4>VWA5A as a biomarker in breast cancer</h4>
-            <p>Machine-learning-based protein prioritization identifying a metastasis biomarker.</p>
-            <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
-          </div>
-          <div class="dj-project-card">
-            <h4>Patent (Korea)</h4>
-            <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
-            <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
-          </div>
-        </div>
-
-        <div class="dj-subtheme">📊 Gene regulatory network modeling</div>
-
-        <div class="dj-project-grid">
-          <div class="dj-project-card">
-            <h4>Condition-specific GRN</h4>
-            <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
-            <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+          <div class="dj-subtheme-col">
+            <div class="dj-subtheme">📊 Gene regulatory network modeling</div>
+            <div class="dj-project-card">
+              <h4>Condition-specific GRN</h4>
+              <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
+              <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+            </div>
           </div>
         </div>
 
