@@ -69,15 +69,13 @@ sections:
 
         ## 💼 Professional Experience {#experience}
 
-        **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
+        **Senior Data Scientist** · Wellcome Sanger Institute (Lotfollahi Lab), UK · *Oct 2024 – present*
 
-        - Led **SIGMMA**, a hierarchical contrastive learning framework aligning H&E histopathology with spatial transcriptomics ([ICML 2026 workshop paper](https://openreview.net/pdf?id=npTFOLkCDf); journal version in preparation)
-        - Led **LocoGen**, a generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle ([NeurIPS 2026](https://arxiv.org/abs/2610.41736))
+        Two first-author contributions in 2026 ([ICML workshop](https://openreview.net/pdf?id=npTFOLkCDf), [NeurIPS](https://arxiv.org/abs/2610.41736)): cross-modal digital pathology and generative design of regulatory DNA.
 
         **Research Intern** · LG AI Research, Korea · *Jan – Apr 2024*
 
-        - Contributed to **ExaonePath**, a self-supervised foundation model for H&E histopathology images ([press](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis))
-        - Built a scalable, reproducible multi-omics preprocessing pipeline
+        Contributed to [EXAONEPath](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis) (LG's H&E foundation model) and built a TCGA multi-omics data processing pipeline.
 
         ## 🧬 Projects {#projects}
 
