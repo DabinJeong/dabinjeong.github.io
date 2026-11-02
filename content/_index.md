@@ -147,8 +147,6 @@ sections:
 
         - Thesis: *Computational modeling of molecular interactions for biomarker discovery using single/multi-omics data*
         - 3 first-authored and 10 co-authored papers
-        - Developed **GOAT**, a graph neural network for multi-omics biomarker discovery in eosinophilic asthma ([Bioinformatics, 2023](https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697))
-        - Developed RNA-seq quantification and normalization pipelines for ICGC-ARGO
 
         **B.S., Biochemistry** · Yonsei University, Korea · *Mar 2013 – Aug 2018*
 
