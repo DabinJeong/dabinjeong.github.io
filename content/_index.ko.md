@@ -60,7 +60,7 @@ sections:
 
         <div class="dj-emoji-list">
 
-        - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to NeurIPS 2026.
+        - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to [NeurIPS 2026](https://arxiv.org/abs/2610.41736).
         - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
         - 🎉 **Jun 2026** · SIGMMA was accepted to the ICML FM4LS/SD4H workshop ([manuscript](https://icml.cc/virtual/2026/72055)); a journal version coming soon!
         - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
@@ -72,7 +72,7 @@ sections:
         **Senior Data Scientist** · Wellcome Sanger Institute, UK · *Oct 2024 – present*
 
         - Led **SIGMMA**, a hierarchical contrastive learning framework aligning H&E histopathology with spatial transcriptomics ([ICML 2026 workshop paper](https://openreview.net/pdf?id=npTFOLkCDf); journal version in preparation)
-        - Led **LocoGen**, a generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle (NeurIPS 2026)
+        - Led **LocoGen**, a generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle ([NeurIPS 2026](https://arxiv.org/abs/2610.41736))
 
         **Research Intern** · LG AI Research, Korea · *Jan – Apr 2024*
 
@@ -100,7 +100,7 @@ sections:
           <ul>
             <li><strong>LocoGen</strong> · <em>Lead · 2026.1 – 2026.9</em><br>
               Generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle.<br>
-              NeurIPS 2026</li>
+              <a href="https://arxiv.org/abs/2610.41736">NeurIPS 2026</a></li>
           </ul>
         </div>
 
