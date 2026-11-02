@@ -321,15 +321,30 @@ html.dark .page-body .prose .dj-ico-img {
   grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
   margin: 0.75rem 0 1.75rem;
-  align-items: start;
+  align-items: stretch;
 }
 .dj-subtheme-col {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  height: 100%;
+}
+.page-body .prose .dj-project-card {
+  display: flex;
+  flex-direction: column;
+}
+.page-body .prose .dj-project-card .dj-meta {
+  margin-top: auto !important;
+}
+/* The last card in a column stretches to fill, so side-by-side columns end
+   at the same baseline. */
+.page-body .prose .dj-subtheme-col > .dj-project-card:last-child {
+  flex: 1 1 auto;
 }
 @media (max-width: 640px) {
   .dj-subtheme-row { grid-template-columns: 1fr; gap: 1rem; }
+  .dj-subtheme-col { height: auto; }
+  .page-body .prose .dj-subtheme-col > .dj-project-card:last-child { flex: 0 0 auto; }
 }
 .page-body .prose .dj-project-card .dj-meta {
   margin: 0.4rem 0 0 !important;
