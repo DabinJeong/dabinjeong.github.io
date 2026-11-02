@@ -71,7 +71,8 @@ sections:
 
         **Senior Data Scientist** · Wellcome Sanger Institute (Lotfollahi Lab), UK · *Oct 2024 – present*
 
-        Two first-author contributions in 2026 ([ICML workshop](https://openreview.net/pdf?id=npTFOLkCDf), [NeurIPS](https://arxiv.org/abs/2610.41736)): cross-modal digital pathology and generative design of regulatory DNA.
+        - Delivered a cross-modal method for digital pathology ([ICML 2026 workshop](https://openreview.net/pdf?id=npTFOLkCDf)).
+        - Built a generative DNA-design framework now in a lab-in-the-loop cycle ([NeurIPS 2026](https://arxiv.org/abs/2610.41736)).
 
         **Research Intern** · LG AI Research, Korea · *Jan – Apr 2024*
 
