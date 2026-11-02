@@ -67,66 +67,82 @@ sections:
 
         </div>
 
-        ## 💼 Professional Experience {#experience}
+        ## 💼 Research & Industry Experience {#experience}
 
-        **Senior Data Scientist** · Wellcome Sanger Institute (Lotfollahi Lab), UK · *Oct 2024 – present*
+        ### Senior Data Scientist · Wellcome Sanger Institute (Lotfollahi Lab), UK <span class="dj-role-dates">Oct 2024 – present</span>
 
-        - Delivered a cross-modal method for digital pathology ([ICML 2026 workshop](https://openreview.net/pdf?id=npTFOLkCDf)).
-        - Built a generative DNA-design framework now in a lab-in-the-loop cycle ([NeurIPS 2026](https://arxiv.org/abs/2610.41736)).
-
-        **Research Intern** · LG AI Research, Korea · *Jan – Apr 2024*
-
-        Contributed to [EXAONEPath](https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis) (LG's H&E foundation model) and built a TCGA multi-omics data processing pipeline.
-
-        ## 🧬 Projects {#projects}
+        <div class="dj-subtheme">🔬 Digital pathology × spatial transcriptomics</div>
 
         <div class="dj-project-grid">
-
-        <div class="dj-project-card">
-          <h4>🔬 Spatial transcriptomics × histopathology</h4>
-          <ul>
-            <li><strong>SIGMMA</strong> · <em>Lead · 2025.6 – present</em><br>
-              Hierarchical contrastive learning aligning H&amp;E histopathology with spatial transcriptomics.<br>
-              <a href="https://icml.cc/virtual/2026/72055">ICML 2026 workshop</a> · journal version in preparation</li>
-            <li><strong>ExaonePath</strong> · <em>Contributor · 2024, LG AI Research</em><br>
-              Self-supervised foundation model for H&amp;E histopathology images.<br>
-              <a href="https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis">press</a></li>
-          </ul>
+          <div class="dj-project-card">
+            <h4>SIGMMA</h4>
+            <p>Cross-modal method aligning H&amp;E histopathology with spatial transcriptomics.</p>
+            <p class="dj-meta"><em>Lead · 2025.6 – present</em> · <a href="https://openreview.net/pdf?id=npTFOLkCDf">ICML 2026 workshop</a></p>
+          </div>
         </div>
 
-        <div class="dj-project-card">
-          <h4>🧬 Regulatory DNA generation</h4>
-          <ul>
-            <li><strong>LocoGen</strong> · <em>Lead · 2026.1 – 2026.9</em><br>
-              Generative framework for de novo regulatory DNA design that uses property-guided generation for out-of-distribution objectives in a lab-in-the-loop cycle.<br>
-              <a href="https://arxiv.org/abs/2610.41736">NeurIPS 2026</a></li>
-          </ul>
+        <div class="dj-subtheme">🧬 Generative regulatory DNA design</div>
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>LocoGen</h4>
+            <p>Property-guided generative framework for de novo regulatory DNA design in a lab-in-the-loop cycle.</p>
+            <p class="dj-meta"><em>Lead · 2026.1 – 2026.9</em> · <a href="https://arxiv.org/abs/2610.41736">NeurIPS 2026</a></p>
+          </div>
         </div>
 
-        <div class="dj-project-card">
-          <h4>⏱️ Temporal cell dynamics</h4>
-          <ul>
-            <li><strong>Cell-state inference across time</strong> · <em>2026, Anthropic × Gladstone Hackathon</em><br>
-              A generative model that infers missing cell states across time points.<br>
-              <a href="https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/">LinkedIn post</a></li>
-          </ul>
+        ### Research Intern · LG AI Research (Multimodal Lab), Korea <span class="dj-role-dates">Jan – Apr 2024</span>
+
+        <div class="dj-subtheme">🏥 Foundation models for medical imaging</div>
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>EXAONEPath</h4>
+            <p>Self-supervised foundation model for H&amp;E histopathology images.</p>
+            <p class="dj-meta"><em>Contributor · 2024</em> · <a href="https://press.aboutamazon.com/2024/12/lg-ai-research-develops-ai-model-on-aws-for-rapid-cancer-diagnosis">press</a></p>
+          </div>
         </div>
 
-        <div class="dj-project-card">
-          <h4>🧪 Multi-omics biomarker discovery</h4>
-          <ul>
-            <li><strong>GOAT</strong> · <em>Lead · PhD</em><br>
-              Graph neural network for multi-omics biomarker discovery in eosinophilic asthma.<br>
-              <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics, 2023</a></li>
-            <li><strong>VWA5A as a biomarker in breast cancer</strong> · <em>Co-lead · PhD</em><br>
-              Machine-learning-based protein prioritization identifying VWA5A as a prognostic marker for breast-cancer metastasis.<br>
-              <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports, 2024</a></li>
-            <li><strong>Patent (Korea)</strong> · <em>Inventor</em><br>
-              Multi-omics biomarker discovery method, registered through the Korean Intellectual Property Office.<br>
-              <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></li>
-          </ul>
+        <div class="dj-subtheme">⚙️ Multi-omics data infrastructure</div>
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>TCGA multi-omics pipeline</h4>
+            <p>Scalable, reproducible preprocessing pipeline for TCGA multi-omics data.</p>
+            <p class="dj-meta"><em>Contributor · 2024</em></p>
+          </div>
         </div>
 
+        ### Graduate Researcher · Seoul National University (Biohealth Informatics Lab), Korea <span class="dj-role-dates">Sep 2021 – Aug 2024</span>
+
+        <div class="dj-subtheme">🧪 Multi-omics biomarker discovery</div>
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>GOAT</h4>
+            <p>Graph attention network for gene-level biomarker discovery in eosinophilic asthma subtypes.</p>
+            <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://academic.oup.com/bioinformatics/article/39/10/btad582/7280697">Bioinformatics 2023</a></p>
+          </div>
+          <div class="dj-project-card">
+            <h4>VWA5A as a biomarker in breast cancer</h4>
+            <p>Machine-learning-based protein prioritization identifying a metastasis biomarker.</p>
+            <p class="dj-meta"><em>Co-lead · PhD</em> · <a href="https://www.nature.com/articles/s41598-024-53015-1">Scientific Reports 2024</a></p>
+          </div>
+          <div class="dj-project-card">
+            <h4>Patent (Korea)</h4>
+            <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
+            <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
+          </div>
+        </div>
+
+        <div class="dj-subtheme">📊 Gene regulatory network modeling</div>
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>Condition-specific GRN</h4>
+            <p>Kernel canonical correlation analysis to simulate transcriptomic responses to external stimuli.</p>
+            <p class="dj-meta"><em>Lead · PhD</em> · Frontiers in Genetics 2021</p>
+          </div>
         </div>
 
         ## 🎓 Education {#education}

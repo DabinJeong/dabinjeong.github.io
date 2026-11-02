@@ -29,9 +29,6 @@ ko:
       - name: 경력
         url: /ko/#experience
         weight: 30
-      - name: 프로젝트
-        url: /ko/#projects
-        weight: 35
       - name: 학력
         url: /ko/#education
         weight: 40

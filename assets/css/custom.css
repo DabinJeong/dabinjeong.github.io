@@ -284,12 +284,58 @@ html.dark .page-body .prose .dj-ico-img {
   }
 }
 
+/* ---------- Experience: role + sub-theme + project cards ---------- */
+#experience .prose h3,
+.page-body .prose #experience h3,
+#experience > div:not(.home-section-bg) > .prose h3 {
+  margin: 2.5rem 0 0.5rem !important;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--dj-rule);
+  font-size: 1.08rem !important;
+  font-weight: 700;
+  letter-spacing: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.page-body .prose .dj-role-dates {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--dj-muted);
+  font-style: italic;
+  white-space: nowrap;
+}
+.page-body .prose .dj-subtheme {
+  margin: 1.25rem 0 0.5rem !important;
+  color: var(--dj-text);
+  font-size: 0.98rem;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+.page-body .prose .dj-project-card .dj-meta {
+  margin: 0.4rem 0 0 !important;
+  color: var(--dj-muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+.page-body .prose .dj-project-card .dj-meta em {
+  color: var(--dj-text);
+  font-style: italic;
+}
+.page-body .prose .dj-project-card p {
+  margin: 0.3rem 0 !important;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 /* ---------- Project cards ---------- */
 .dj-project-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
   gap: 0.9rem;
-  margin: 1rem 0;
+  margin: 0 0 1rem;
 }
 @media (max-width: 640px) {
   .dj-project-grid { grid-template-columns: 1fr; }
