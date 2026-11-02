@@ -62,7 +62,7 @@ sections:
 
         - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to [NeurIPS 2026](https://arxiv.org/abs/2610.41736).
         - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
-        - 🎉 **Jun 2026** · SIGMMA was accepted to the ICML FM4LS/SD4H workshop ([manuscript](https://icml.cc/virtual/2026/72055)); a journal version coming soon!
+        - 🎉 **Jun 2026** · SIGMMA was accepted to the [ICML FM4LS/SD4H workshop](https://icml.cc/virtual/2026/72055); a journal version coming soon!
         - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
 
         </div>
