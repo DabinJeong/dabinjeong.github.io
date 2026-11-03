@@ -90,7 +90,7 @@ sections:
           </div>
         </div>
 
-        ### Research Intern · LG AI Research (Multimodal Lab), Korea <span class="dj-role-dates">Jan – Apr 2024</span>
+        ### Research Intern · LG AI Research (Multimodal Lab), South Korea <span class="dj-role-dates">Jan – Apr 2024</span>
 
         <div class="dj-subtheme-row">
           <div class="dj-subtheme-col">
@@ -111,7 +111,7 @@ sections:
           </div>
         </div>
 
-        ### Graduate Researcher · Seoul National University (Biohealth Informatics Lab), Korea <span class="dj-role-dates">Sep 2021 – Aug 2024</span>
+        ### Graduate Researcher · Seoul National University (Biohealth Informatics Lab), South Korea <span class="dj-role-dates">Sep 2021 – Aug 2024</span>
 
         <div class="dj-subtheme-row">
           <div class="dj-subtheme-col">
@@ -133,7 +133,7 @@ sections:
                 <p class="dj-meta"><em>Lead · PhD</em> · <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.652623/full">Frontiers in Genetics 2021</a></p>
               </div>
               <div class="dj-project-card">
-                <h4>Patent (Korea)</h4>
+                <h4>Patent (South Korea)</h4>
                 <p>Multi-omics biomarker discovery method, registered through KIPRIS.</p>
                 <p class="dj-meta"><em>Inventor</em> · <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">KIPRIS</a></p>
               </div>
@@ -143,12 +143,12 @@ sections:
 
         ## 🎓 Education {#education}
 
-        **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, Korea · *Sep 2018 – Aug 2024*
+        **Ph.D., Interdisciplinary Program of Bioinformatics** · Seoul National University, South Korea · *Sep 2018 – Aug 2024*
 
         - Thesis: *Computational modeling of molecular interactions for biomarker discovery using single/multi-omics data*
         - 3 first-authored and 10 co-authored papers
 
-        **B.S., Biochemistry** · Yonsei University, Korea · *Mar 2013 – Aug 2018*
+        **B.S., Biochemistry** · Yonsei University, South Korea · *Mar 2013 – Aug 2018*
 
         </div>
         </div>
