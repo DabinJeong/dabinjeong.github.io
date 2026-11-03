@@ -405,6 +405,37 @@ html.dark .dj-project-card {
   border-color: #303030;
 }
 
+/* ---------- Status tags on project titles ---------- */
+.page-body .prose .dj-tag {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.12rem 0.5rem;
+  border: 1px solid var(--dj-rule);
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--dj-muted);
+  vertical-align: 0.12em;
+  line-height: 1.5;
+}
+.page-body .prose .dj-tag-ship {
+  border-color: #a7f3d0;
+  background: #ecfdf5;
+  color: #047857;
+}
+html.dark .page-body .prose .dj-tag-ship {
+  border-color: #065f46;
+  background: #052e2b;
+  color: #6ee7b7;
+}
+.page-body .prose .dj-tag-draft {
+  border-color: var(--dj-rule);
+  background: transparent;
+  color: var(--dj-muted);
+}
+
 /* ---------- Figures inside essays ---------- */
 .page-body .prose .dj-essay-figure {
   margin: 1.75rem auto;

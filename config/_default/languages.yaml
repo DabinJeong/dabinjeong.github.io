@@ -35,6 +35,9 @@ ko:
       - name: 수상
         url: /ko/#awards
         weight: 60
+      - name: 프로젝트
+        url: /ko/#personal-projects
+        weight: 62
       - name: 사진
         url: /ko/#photo
         weight: 65

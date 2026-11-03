@@ -174,6 +174,21 @@ sections:
 
         </div>
 
+        ## 🧪 Personal projects {#personal-projects}
+
+        <div class="dj-project-grid">
+          <div class="dj-project-card">
+            <h4>Cell dynamics flow (FateFlow) <span class="dj-tag dj-tag-ship">demo</span></h4>
+            <p>Flow-matching method for estimating single-cell states at timepoints that were never measured, benchmarked on the LARRY hematopoiesis dataset.</p>
+            <p class="dj-meta"><em>2026, Anthropic × Gladstone Life Sciences Hackathon</em> · <a href="https://github.com/DabinJeong/cell_dynamics_flow">GitHub</a> · <a href="https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/">Demo</a></p>
+          </div>
+          <div class="dj-project-card">
+            <h4>ATGC_SHRDLU <span class="dj-tag dj-tag-draft">idea stage</span></h4>
+            <p>An exploration of DNA as a language, inspired by Terry Winograd's SHRDLU — treating the entangled structure of DNA like the interdependent processes of a natural-language-understanding system.</p>
+            <p class="dj-meta"><em>2026</em> · <a href="https://github.com/DabinJeong/ATGC_SHRDLU">GitHub</a></p>
+          </div>
+        </div>
+
   # ── Photo ──────────────────────────────────────────────────────────────────
   - block: markdown
     id: photo

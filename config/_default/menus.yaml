@@ -18,6 +18,9 @@ main:
   - name: Awards
     url: /#awards
     weight: 60
+  - name: Projects
+    url: /#personal-projects
+    weight: 62
   - name: Photo
     url: /#photo
     weight: 65
