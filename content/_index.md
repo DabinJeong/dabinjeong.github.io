@@ -76,7 +76,7 @@ sections:
             <div class="dj-subtheme">🔬 Digital pathology × spatial transcriptomics</div>
             <div class="dj-project-card">
               <h4>SIGMMA</h4>
-              <p>Cross-modal method aligning H&amp;E histopathology with spatial transcriptomics.</p>
+              <p>Multi-modal learning of H&amp;E histopathology and spatial transcriptomics.</p>
               <p class="dj-meta"><em>Lead · 2025.6 – present</em> · <a href="https://openreview.net/pdf?id=npTFOLkCDf">ICML 2026 workshop</a></p>
             </div>
           </div>
@@ -115,7 +115,7 @@ sections:
 
         <div class="dj-subtheme-row">
           <div class="dj-subtheme-col">
-            <div class="dj-subtheme">🧪 Multi-omics biomarker discovery</div>
+            <div class="dj-subtheme">🩸 Multi-omics biomarker discovery</div>
             <div class="dj-project-grid">
               <div class="dj-project-card">
                 <h4>GOAT</h4>
