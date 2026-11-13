@@ -1,7 +1,7 @@
 ---
 title: "To My Fellow Scientists, Human or AI"
 date: 2026-11-01
-summary: ""
+summary: "On AI, academic fatigue, and the goodwill we might still owe each other."
 tags:
   - AI
   - research-culture
@@ -10,8 +10,6 @@ math: false
 show_breadcrumb: false
 commentable: true
 ---
-
-<!--more-->
 
 {{< langswitch >}}
 

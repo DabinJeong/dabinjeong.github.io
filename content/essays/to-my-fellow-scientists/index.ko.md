@@ -1,7 +1,7 @@
 ---
 title: "인간이든 AI든, 나의 동료 과학자들에게"
 date: 2026-11-01
-summary: ""
+summary: "AI와 과학, 그 사이의 서로의 글을 바라보는 태도에 대하여."
 tags:
   - AI
   - research-culture
@@ -10,8 +10,6 @@ math: false
 show_breadcrumb: false
 commentable: true
 ---
-
-<!--more-->
 
 {{< langswitch >}}
 
