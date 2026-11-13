@@ -1,6 +1,7 @@
 ---
 title: "인간이든 AI든, 나의 동료 과학자들에게"
 date: 2026-11-01
+summary: ""
 tags:
   - AI
   - research-culture
@@ -9,6 +10,8 @@ math: false
 show_breadcrumb: false
 commentable: true
 ---
+
+<!--more-->
 
 {{< langswitch >}}
 

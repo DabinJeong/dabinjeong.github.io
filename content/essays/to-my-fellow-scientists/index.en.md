@@ -1,6 +1,7 @@
 ---
 title: "To My Fellow Scientists, Human or AI"
 date: 2026-11-01
+summary: ""
 tags:
   - AI
   - research-culture
@@ -9,6 +10,8 @@ math: false
 show_breadcrumb: false
 commentable: true
 ---
+
+<!--more-->
 
 {{< langswitch >}}
 
