@@ -1,7 +1,6 @@
 ---
 title: "To My Fellow Scientists, Human or AI"
 date: 2026-11-01
-summary: "On a time when AI-written and human-written work have become hard to tell apart, and the kind of generous attention we might still give each other's rough ideas in science."
 tags:
   - AI
   - research-culture
