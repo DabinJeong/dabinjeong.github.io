@@ -61,7 +61,7 @@ sections:
         <div class="dj-emoji-list">
 
         - 🎉 **Sep 2026** · LocoGen, a locality-aware generative model for designing regulatory DNA, was accepted to [NeurIPS 2026](https://arxiv.org/abs/2610.41736).
-        - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/)).
+        - 🎉 **Jul 2026** · Selected as one of 500 participants from over 6,000 applicants in the Anthropic × Gladstone Claude Life Sciences Hackathon, where I built a generative model that infers missing cell states across time points ([LinkedIn post](https://dabinjeong.github.io/cell_dynamics_flow_demo/)).
         - 🎉 **Jun 2026** · SIGMMA was accepted to the [ICML FM4LS/SD4H workshop](https://icml.cc/virtual/2026/72055); a journal version coming soon!
         - 🎉 **Oct 2024** · Joined the Wellcome Sanger Institute.
 
@@ -180,7 +180,7 @@ sections:
           <div class="dj-project-card">
             <h4>Cell dynamics flow (FateFlow) <span class="dj-tag dj-tag-ship">demo</span></h4>
             <p>Flow-matching method for estimating single-cell states at timepoints that were never measured, benchmarked on the LARRY hematopoiesis dataset.</p>
-            <p class="dj-meta"><em>2026, Anthropic × Gladstone Life Sciences Hackathon</em> · <a href="https://github.com/DabinJeong/cell_dynamics_flow">GitHub</a> · <a href="https://www.linkedin.com/posts/dabin-jeong-421914261_claudelifesciencehackathon-share-7485488602135642112-kiKJ/">Demo</a></p>
+            <p class="dj-meta"><em>2026, Anthropic × Gladstone Life Sciences Hackathon</em> · <a href="https://github.com/DabinJeong/cell_dynamics_flow">GitHub</a> · <a href="https://dabinjeong.github.io/cell_dynamics_flow_demo/">Demo</a></p>
           </div>
           <div class="dj-project-card">
             <h4>ATGC_SHRDLU <span class="dj-tag dj-tag-draft">idea stage</span></h4>
